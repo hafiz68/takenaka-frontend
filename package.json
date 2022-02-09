@@ -1,8 +1,8 @@
 {
-  "name": "easydev",
+  "name": "takenaka",
   "version": "3.4.0",
   "private": true,
-  "homepage": "https://previews.aspirity.com/easydev",
+  "homepage": "https://previews.aspirity.com/takenaka",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
